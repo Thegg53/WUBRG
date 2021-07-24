@@ -39,17 +39,3 @@ const help = `Help for index.js
 `;
 
 module.exports = { error, help};
-
-
-// COMMAND-LINE OPTIONS         top
-//        Mandatory arguments to long options are mandatory for short
-//        options too.
-
-//        -d --delay=DELAY
-//               Delay between updates, in tenths of a second. If the delay
-//               value is less than 1, it is increased to 1, i.e. 1/10
-//               second. If the delay value is greater than 100, it is
-//               decreased to 100, i.e. 10 seconds.
-
-//        -h --help
-//               Display a help message and exit

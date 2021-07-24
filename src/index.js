@@ -124,11 +124,3 @@ function colors() {
 }
 
 colors()
-
-
-/*
-To run application:
-node ~/code-challenge/src/index.js true false true '["green","blue", "red"]'
-*/
-
-
